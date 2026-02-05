@@ -1,0 +1,14 @@
+body {
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("images/bmods_bg.png");
+}
+h1 {
+    text-align: center;
+    color: rgb(199, 121, 5);
+    font-size: 500;
+}
+p {
+    text-align: center;
+    color: rgb(165, 162, 156)
+}
