@@ -1,11 +1,12 @@
 h1 {
     text-align: center;
     color: rgb(199, 121, 5);
-    font-size: 500;
+    font-size: 60px;
 }
 p {
     text-align: center;
     color: rgb(165, 162, 156);
+    font-size: 17px;
 }
 
 
@@ -17,6 +18,6 @@ p {
 }
 
 .icons img {
-    width: 80px;
+    width: 70px;
     border-radius: 100px;
 }
