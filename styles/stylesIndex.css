@@ -7,6 +7,16 @@ p {
     text-align: center;
     color: rgb(165, 162, 156);
 }
-img {
+
+
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.icons img {
+    width: 100px;
     border-radius: 100px;
 }
