@@ -1,12 +1,17 @@
+p {
+    text-align: center;
+    color: rgb(165, 162, 156);
+    font-size: 17px;
+}
 h1 {
     text-align: center;
     color: rgb(199, 121, 5);
     font-size: 60px;
 }
-p {
+h2 {
     text-align: center;
-    color: rgb(165, 162, 156);
-    font-size: 17px;
+    color: rgb(180, 110, 5);
+    font-size: 40px;
 }
 
 
